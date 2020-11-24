@@ -15,6 +15,7 @@ Informations on the folder:
 8. Plumed-reweight: reweighting script
 9. TICA-generation: scripts to perform TICA analyses on plasmepsin-II.
 10. plasmepsin-tica-tip4p-md.ipynb contains TICA generation using resid 69-91 (numbering according to .tpr file)
+11. variational-autoencoder: shows how to use variational autoencoder (MSM VDE) on the TICs. similar in spirit of using RAVE on SGOOP.
 
 Softwares required:
 1. Plumed 1.3, 2.5 
