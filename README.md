@@ -14,6 +14,7 @@ Informations on the folder:
 7. Plumed-TICs: plumed input for TICA using dihedral angles.
 8. Plumed-reweight: reweighting script
 9. TICA-generation: scripts to perform TICA analyses on plasmepsin-II.
+10. plasmepsin-tica-tip4p-md.ipynb contains TICA generation using resid 69-91 (numbering according to .tpr file)
 
 Softwares required:
 1. Plumed 1.3, 2.5 
