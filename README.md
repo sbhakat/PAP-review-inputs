@@ -26,5 +26,6 @@ Softwares required:
 6. Gnuplot (plotting)
 7. Jupyter Notebook
 8. MSMBuilder
+9. Variational Dynamic Encoder (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7398762/), Github: https://github.com/msmbuilder/vde
 
 Please contact bhakatsoumendranath@gmail.com if you need more information.
